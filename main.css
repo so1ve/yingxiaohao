@@ -25,3 +25,6 @@ label.custom-control-label {
     font-size: medium;
     font-weight: normal;
 }
+#audio {
+    float: right;
+}
