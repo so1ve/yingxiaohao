@@ -1,0 +1,27 @@
+#container {
+    width: 480px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    margin-top: 1em;
+}
+label {
+    font-size: 125%;
+    font-weight: bold;
+}
+input, button, textarea {
+    margin: 5px 0 5px 0;
+}
+textarea {
+    min-height: 250px!important;
+}
+footer {
+    text-align: center;
+    font-size: 130%;
+    margin-bottom: 1.5em;
+}
+label.custom-control-label {
+    font-size: medium;
+    font-weight: normal;
+}
